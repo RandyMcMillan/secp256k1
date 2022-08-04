@@ -1,3 +1,3 @@
 #!/bin/sh
 set -e
-autoreconf -if --warnings=all
+/opt/homebrew/bin/autoreconf -if --warnings=all
